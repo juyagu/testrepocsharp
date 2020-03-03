@@ -1,0 +1,10 @@
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\ObjetosDeNegocios\bin\Debug\ObjetosDeNegocios.dll.config
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\ObjetosDeNegocios\bin\Debug\ObjetosDeNegocios.dll
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\ObjetosDeNegocios\bin\Debug\ObjetosDeNegocios.pdb
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\ObjetosDeNegocios\bin\Debug\EntityFramework.dll
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\ObjetosDeNegocios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\ObjetosDeNegocios\bin\Debug\EntityFramework.xml
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\ObjetosDeNegocios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\ObjetosDeNegocios\obj\Debug\ObjetosDeNegocios.csprojResolveAssemblyReference.cache
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\ObjetosDeNegocios\obj\Debug\ObjetosDeNegocios.dll
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\ObjetosDeNegocios\obj\Debug\ObjetosDeNegocios.pdb

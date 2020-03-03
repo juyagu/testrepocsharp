@@ -1,0 +1,14 @@
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\BLL\bin\Debug\BLL.dll.config
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\BLL\bin\Debug\BLL.dll
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\BLL\bin\Debug\BLL.pdb
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\BLL\bin\Debug\DAL.dll
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\BLL\bin\Debug\EntityFramework.dll
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\BLL\bin\Debug\ObjetosDeNegocios.dll
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\BLL\bin\Debug\DAL.pdb
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\BLL\bin\Debug\ObjetosDeNegocios.pdb
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\BLL\bin\Debug\EntityFramework.xml
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\BLL\obj\Debug\BLL.dll
+C:\Users\u55586\Documents\EducacionIT\NET\Clase6\Ejercicio\Clase6-Capas\BLL\obj\Debug\BLL.pdb
